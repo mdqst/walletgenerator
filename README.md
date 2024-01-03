@@ -1,0 +1,2 @@
+# walletgenerator
+Introducing our EVM Wallet Generator script, a powerful tool for effortlessly creating Ethereum Virtual Machine (EVM) wallets. This script allows you to customize the number of wallets, words, and private keys per wallet, providing a seamless and efficient way to generate EVM wallets tailored to your specifications. Enjoy the simplicity and flexibility of our script as you generate multiple wallets with ease.
